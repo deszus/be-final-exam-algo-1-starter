@@ -11,6 +11,6 @@ class Challenge {
         if (number % 7 == 0) {
             return words[1];
         }
-        return "szándékos hiba :D";
+        return "";
     }
 }
